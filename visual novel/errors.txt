@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 357: expected a keyword argument, colon, or end of line.
+    add gui.main_menu_background = Movie(play='images\begginings.webm')
+                                 ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Fri Nov 22 23:14:42 2024
